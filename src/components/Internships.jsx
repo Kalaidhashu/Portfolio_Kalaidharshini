@@ -1,6 +1,6 @@
 import React from "react";
 import "../styles/Internships.css";
-import internPe from "../assets/internships/InternPeCerti.png";
+import internPe from "../assets/internships/InternpeCerti.png";
 import Algotutor from "../assets/internships/MFSD.png";
 
 const internships = [

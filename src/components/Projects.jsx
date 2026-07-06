@@ -4,7 +4,7 @@ import "../styles/Projects.css";
 import aiBlog from "../assets/projects/AIBlog.png";
 import skillCertify from "../assets/projects/skill-certify.png";
 import elderlyCare from "../assets/projects/elderly-care.png";
-import careconectdemo from "../assets/projects/careconnectdemo.mp4";
+import careconectdemo from "../assets/projects/CareConnectdemo.mp4";
 
 const Projects = () => {
 
