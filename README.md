@@ -228,7 +228,7 @@ https://www.linkedin.com/in/kalaidharshini-k-381868291/
 https://github.com/Kalaidhashu
 
 🌐 Portfolio:
-https://your-portfolio-link.vercel.app
+https://portfolio-kalaidharshini-rw6e-zeta.vercel.app/
 
 ---
 
